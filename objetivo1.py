@@ -25,4 +25,5 @@ g = np.exp(2j*3.141592*x)
 print(g)
 
 
+print("otra prueba de git")
 print("este es un cambio hecho para probar que se cambio en git")
